@@ -1,7 +1,7 @@
 module.exports = {
   title: "Belajar Golang",
   tagline: "Belajar Dengan Jenius Golang",
-  url: "https://jeniusgolang.netlify.com",
+  url: "https://jeniusgolang.netlify.app",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "facebook", // Usually your GitHub org/user name.
@@ -15,9 +15,9 @@ module.exports = {
       },
       links: [
         {
-          to: "docs/doc1",
-          activeBasePath: "docs",
-          label: "Docs",
+          to: "docs/intro",
+          activeBasePath: "intro",
+          label: "Intro",
           position: "left"
         },
         { to: "blog", label: "Blog", position: "left" },
@@ -92,6 +92,6 @@ module.exports = {
       }
     ]
   ],
-  themes: ["@docusaurus/theme-classic", "@docusaurus/theme-live-codeblock"],
+  themes: ["@docusaurus/theme-classic"],
   plugins: ["docusaurus-lunr-search"]
 };
