@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7da1014a-313e-4dc9-87ca-daaa5394fc49/deploy-status)](https://app.netlify.com/sites/jeniusgolang/deploys)
+
 # Website
 
 Buku Bersumber dari judul buku [Belajar Jenius Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang.git).
