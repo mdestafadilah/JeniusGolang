@@ -32,5 +32,5 @@ Update your index of searching using lunr.js!
 ### Netlify
 
 ```
-https://jeniusgolang.netlify.com/
+https://jeniusgolang.netlify.app/
 ```
